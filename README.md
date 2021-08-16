@@ -11,7 +11,7 @@ Python version 3.x
 
 # Get-started
 After downloading move the zip file inside the folder named plugins in the same directory of podrum
-
+![alt text](https://media.discordapp.net/attachments/834797692802564108/876759918458331136/IMG_20210816_150036.jpg)
 unzip the file
 ![alt text](https://media.discordapp.net/attachments/834797692802564108/876750818139865139/IMG_20210816_141559.jpg)
 You will get one zip and one folder
