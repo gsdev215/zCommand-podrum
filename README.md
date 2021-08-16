@@ -12,6 +12,16 @@ Python version 3.x
 # Get-started
 After downloading unzip the file
 ![alt text](https://media.discordapp.net/attachments/834797692802564108/876750818139865139/IMG_20210816_141559.jpg)
+You will get one zip and one folder
+Open the folder[more_command]
+![alt text](https://media.discordapp.net/attachments/834797692802564108/876753226215596042/IMG_20210816_143410.jpg)
+Open file[input.json] with your text editor
+![alt text](https://media.discordapp.net/attachments/834797692802564108/876753882297036841/IMG_20210816_143643.jpg)
+Instructions to edit file are given there
+How to get webhook is given below
+
+
+
 
 
 
