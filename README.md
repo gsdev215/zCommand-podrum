@@ -27,6 +27,7 @@ You will need  webhook url of the discord channel where you want the message to 
 ## How to get webhook url
 - For non iOS and Android user
 > 1.Click the cog to "Edit Channel".
+
 > 2.Select the "Webhooks" tab and click "Create Webhook".
 > 3.Enter a "Name" and copy the Webhook URL and click "Save".
 > 4.Done! Users now have their own unique discord webhook URL to use on Dashe.
