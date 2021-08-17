@@ -24,7 +24,21 @@ How to get webhook is given below
 # Webhook 
 You will need  webhook url of the discord channel where you want the message to pop up.
 - *Note*:- for now only message of Minecraft using command can be send to discord . I am trying to do so with discord.
+## How to get webhook url
+- For non iOS and Android user
+> 1.Click the cog to "Edit Channel".
+> 2.Select the "Webhooks" tab and click "Create Webhook".
+> 3.Enter a "Name" and copy the Webhook URL and click "Save".
+> 4.Done! Users now have their own unique discord webhook URL to use on Dashe.
 
+- For iOS and Android user
+> 1.Open a new browser tab and login in to your account at Discord.
+> 2.Click the gear icon (Edit Channel) of the channel you want to post to.
+> 3.Click Webhooks in the left menu.
+> 4.Click the Create Webhook button.
+> 5.Enter a Name of your choice.
+> 6.Click the Copy button of the Webhook URL.
+> Pls don't use any other third-party sites 
 
 
 
