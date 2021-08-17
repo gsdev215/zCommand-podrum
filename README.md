@@ -32,7 +32,7 @@ You will need  webhook url of the discord channel where you want the message to 
 
 > 3.Enter a "Name" and copy the Webhook URL and click "Save".
 
-> 4.Done! Users now have their own unique discord webhook URL to use on Dashe.
+> 4.Done! Users now have their own unique discord webhook URL to use here
 
 - For iOS and Android user
 > 1.Open a new browser tab and login in to your account at Discord.
@@ -46,6 +46,8 @@ You will need  webhook url of the discord channel where you want the message to 
 > 5.Enter a Name of your choice.
 
 > 6.Click the Copy button of the Webhook URL.
+
+> 7.Done! You have it.
 
 > Pls don't use any other third-party sites 
 
