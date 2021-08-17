@@ -51,6 +51,12 @@ You will need  webhook url of the discord channel where you want the message to 
 
 > Pls don't use any other third-party sites 
 
+# Features
+- [x] /send <message: message> 
+Sends the message to discord though webhook [ webhook url in info.json required]
+
+- [x] /add-staff <username: username>
+Adds the user to staff list [ your in-game name required in info.json]
 
 
 
