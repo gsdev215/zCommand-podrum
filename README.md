@@ -3,11 +3,9 @@ Plugins which adds few more commands to podrum Minecraft software.
 # Note
 This plugin is actually a test plugin
 ## Requirements
-Python version 3.x
-
-•[Discord-Webhook](https://pypi.org/project/discord-webhook/)
-
-•Read the full readme.md file and follow the instructions
+- Python version 3.x
+- [Discord-Webhook](https://pypi.org/project/discord-webhook/)
+- Read the full readme.md file and follow the instructions
 # Download
 
 # Get-started
@@ -25,7 +23,8 @@ Instructions to edit file are given there
 How to get webhook is given below
 # Webhook 
 You will need  webhook url of the discord channel where you want the message to pop up.
-- *Note*:- for now only Minecraft to discord the text can be sende
+- *Note*:- for now only message of Minecraft using command can be send to discord . I am trying to do so with discord.
+
 
 
 
