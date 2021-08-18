@@ -8,7 +8,7 @@ This plugin is actually a test plugin
 - [Discord-Webhook](https://pypi.org/project/discord-webhook/)
 - Read the full readme.md file and follow the instructions
 # Download
-[Latest](https://github.com/gsdev215/zCommand-podrum/releases/download/Alpha-1/zCommand.pack.zip)
+[Latest](https://github.com/gsdev215/zCommand-podrum/releases/download/Pre-Alpha/zCommand.pack.zip)
 # Get-started
 After downloading
 ![alt text](https://media.discordapp.net/attachments/834797692802564108/877469321880813588/IMG_20210818_135931.jpg)
