@@ -58,7 +58,11 @@ You will need  webhook url of the discord channel where you want the message to 
 - [x] /ai <message: message>
 > An ai chat bot will reply to your message
 
-
+# Credits
+Thanks for helping me in some erroes
+- [HunterAzar](https://github.com/HunterAzar)
+- [ZaZiDev](https://github.com/ZaZiDev)
+- [MFDGaming](https://github.com/MFDGaming)
 
 
 
