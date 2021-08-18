@@ -1,7 +1,7 @@
 import aiml,os
 
 path: str = os.path.join(os.getcwd(), "plugins")
-BRAIN_FILE=path+"/more_command/brain.dump"
+BRAIN_FILE=path+"/zCommand/brain.dump"
 
 k = aiml.Kernel()
 
