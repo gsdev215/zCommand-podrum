@@ -12,8 +12,8 @@ class Main:
 	
 	def __init__(self):
 		self.server: object = 'server'
-		self.name: str = "Discord+podrum"
-		self.description: str = "Connects discord and minecraft chat"
+		self.name: str = "zCommand"
+		self.description: str = "Adds few commands"
 		
 	def on_load(self):
 	       self.logger: logger = self.server.logger
