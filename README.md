@@ -1,4 +1,4 @@
-# more-command-podrum
+# zCommands
 Plugins which adds few more commands to podrum Minecraft software.
 # Note
 This plugin is actually a test plugin
@@ -11,12 +11,12 @@ This plugin is actually a test plugin
 [Latest](https://github.com/gsdev215/more-command-podrum/blob/main/more_command%5Bpack%5D.zip?raw=true)
 # Get-started
 After downloading
-![alt text](https://media.discordapp.net/attachments/834797692802564108/876759918458331136/IMG_20210816_150036.jpg)
+![alt text](https://media.discordapp.net/attachments/834797692802564108/877469321880813588/IMG_20210818_135931.jpg)
 unzip the file
 You will get one zip and one folder
 move the folder and zip inside the folder named plugins in the same directory of podrum 
-![alt text](https://media.discordapp.net/attachments/834797692802564108/876750818139865139/IMG_20210816_141559.jpg)
-Open the folder[more_command]
+![alt text](https://media.discordapp.net/attachments/834797692802564108/877469322346377256/IMG_20210818_135914.jpg)
+Open the folder[zCommand]
 ![alt text](https://media.discordapp.net/attachments/834797692802564108/876753226215596042/IMG_20210816_143410.jpg)
 Open file[input.json] with your text editor
 ![alt text](https://media.discordapp.net/attachments/834797692802564108/876753882297036841/IMG_20210816_143643.jpg)
