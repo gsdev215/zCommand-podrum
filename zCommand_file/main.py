@@ -17,7 +17,6 @@ class Main:
 		
 	def on_load(self):
 	       self.logger: logger = self.server.logger
-	       self.logger.info("[discord-podrum] Connect to discord")
 	       self.server.managers.command_manager.register(send_command(self))
 	       self.server.managers.command_manager.register(run_command(self))
 	       self.server.managers.command_manager.register(ai_command(self))
