@@ -4,10 +4,11 @@ Plugins which adds few more commands to podrum Minecraft software.
 This plugin is actually a test plugin
 ## Requirements
 - Python version 3.x
+- [python-aiml](https://pypi.org/project/python-aiml/)
 - [Discord-Webhook](https://pypi.org/project/discord-webhook/)
 - Read the full readme.md file and follow the instructions
 # Download
-[Latest] (https://github.com/gsdev215/more-command-podrum/blob/main/more_command%5Bpack%5D.zip?raw=true)
+[Latest](https://github.com/gsdev215/more-command-podrum/blob/main/more_command%5Bpack%5D.zip?raw=true)
 # Get-started
 After downloading
 ![alt text](https://media.discordapp.net/attachments/834797692802564108/876759918458331136/IMG_20210816_150036.jpg)
