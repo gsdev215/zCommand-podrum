@@ -1,8 +1,5 @@
 import json,os
 
-prefix = "."
-token ="NzYwODIxODg3MjE0ODEzMTg2.X3RomQ.DrA3dKUyakrZrXLFIjfM9MGJMuM"
-webhooks = "https://discord.com/api/webhooks/876028894766043177/88Ngbu1786hImFZNyKq4IGHD70Lzxssgku_0T0KmVmPGBkquxMeEEKiStnn8SZGhiuLK"
 path: str = os.path.join(os.getcwd(), "plugins")
 
 def json_open():
