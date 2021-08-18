@@ -7,7 +7,7 @@ This plugin is actually a test plugin
 - [Discord-Webhook](https://pypi.org/project/discord-webhook/)
 - Read the full readme.md file and follow the instructions
 # Download
-
+[Latest] (https://github.com/gsdev215/more-command-podrum/blob/main/more_command%5Bpack%5D.zip?raw=true)
 # Get-started
 After downloading
 ![alt text](https://media.discordapp.net/attachments/834797692802564108/876759918458331136/IMG_20210816_150036.jpg)
@@ -19,7 +19,6 @@ Open the folder[more_command]
 ![alt text](https://media.discordapp.net/attachments/834797692802564108/876753226215596042/IMG_20210816_143410.jpg)
 Open file[input.json] with your text editor
 ![alt text](https://media.discordapp.net/attachments/834797692802564108/876753882297036841/IMG_20210816_143643.jpg)
-Instructions to edit file are given there
 How to get webhook is given below
 # Webhook 
 You will need  webhook url of the discord channel where you want the message to pop up.
@@ -55,8 +54,8 @@ You will need  webhook url of the discord channel where you want the message to 
 - [x] /send <message: message> 
 > Sends the message to discord though webhook [ webhook url in info.json required]
 
-- [x] /add-staff <username: username>
-> Adds the user to staff list [ your in-game name required in info.json]
+- [x] /ai <message: message>
+> An ai chat bot will reply to your message
 
 
 
